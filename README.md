@@ -25,6 +25,6 @@ The first page provides an overview of the job market trends showasing key KPIs 
 ### Page 2: Job Title Drill Through
 ![second page](<img width="1858" height="1047" alt="image" src="https://github.com/user-attachments/assets/d1a45003-1da3-413a-9d32-3ba14073220b" />)
 
-The second page provides a more detailed view of an individual data role. Users can drill through from the main dashboard to explore specific details, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
+The second page provides a more detailed view of an individual data role. Users can drill through from the main dashboard to explore specific details, including salary ranges, work-from-home stats, available employment types, top skills for the role, and a global map of job locations.
 
 
